@@ -73,8 +73,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Miller Family Secret Santa</h1>
-        <h4>a Secret Santa Generator that <span>WON'T</span> sell your personal data </h4>
+        <h1>Kids Table Secret Santa</h1>
+
         <h3>(click on your name to see your match)</h3>
         <div className='marmar'>
           <img src='marmar.svg'></img>
