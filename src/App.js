@@ -3,12 +3,10 @@ import './App.css';
 const seedrandom = require("seedrandom");
 
     const familyMembers = [
-      {name:"Dan", spouse: "Rebecca"},
-      {name:"Rebecca", spouse: "Dan"},
-      {name:"Paul", spouse: "Heather"},
-      {name:"Heather", spouse: "Paul"},
-      {name:"Kathleen", spouse: "Dean"},
-      {name:"Dean", spouse: "Kathleen"},
+      {name:"Kate", spouse: "Rob"},
+      {name:"Rob", spouse: "Kate"},
+      {name:"Alyssa", spouse: "Phil"},
+      {name:"Phil", spouse: "Alyssa"},
       {name:"Laura", spouse: "Craig"},
       {name:"Craig", spouse: "Laura"},
     ];
